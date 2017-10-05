@@ -1,0 +1,56 @@
+body{
+    background-color:#191A1C;
+}
+.main{
+    margin-top: 1%;
+}
+
+.categorias{
+    text-align: center;
+}
+.categoria{
+    color: white;
+}
+
+.border-white{
+    border: 1px solid white;
+}
+.h2cat{
+    font-size: 20px;
+    color: white;
+ 
+}
+
+.bodyinf{
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+     font-weight: bold;
+    color: white;
+    margin-bottom: 1%;
+    background-color: #2C2D2F;
+}
+
+.border-white{
+    border: 1px solid white;
+}
+.contentVidInfo{
+    margin-bottom: 2%;
+}
+.titulo-video{
+    color: darkorange;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.vistos-video{
+    color: white;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.catmarg{
+    margin-bottom: 5px;;
+}
+
